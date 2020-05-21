@@ -1,5 +1,6 @@
 package Cashier;
 
+public class Cashier { // xin
 
     private int id;
     private String name; 
