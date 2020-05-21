@@ -1,6 +1,5 @@
 package Cashier;
 
-public class Cashier { // xin chao cac ban
 
     private int id;
     private String name; 
